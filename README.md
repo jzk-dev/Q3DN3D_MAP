@@ -1,12 +1,13 @@
 # Q3DN3D_MAP
 Duke Nukem 3d Hollywood Holocaust map for Quake 3 Arena
 
-Keep in mind that I was a beginner at map creation and learned many things only near the end of the process, so the map is quite chaotic.
+Keep in mind that I was a beginner at map creation and learned many things only near the end of the process, so editing the map can be quite chaotic.
 
 * This map was made to be played with the ExcessivePlus mod.
 * The focus was on preserving the original look of the map by using the same textures.
 * There is no lighting configuration in the map.
 * There are no items in the map, except for the flags when playing CTF.
+* You will find some clipping brushes here and there.
 * This map was created using NetRadiant. You must edit scripts\shaderlist.txt and add _dnShaders.shader for the map's shaders to appear.
 * Map compiled only with -vis (no light)
 
