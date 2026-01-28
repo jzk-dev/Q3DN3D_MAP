@@ -7,7 +7,7 @@ Keep in mind that I was a beginner at map creation and learned many things only 
 * The focus was on preserving the original look of the map by using the same textures.
 * There is no lighting configuration in the map.
 * There are no items in the map, except for the flags when playing CTF.
-* Feel free to create your own branches.
+* This map was created using NetRadiant. You must edit scripts\shaderlist.txt and add _dnShaders.shader for the map's shaders to appear.
 
 File AllTextures.rar contains all the TGA textures used in DN3D game.
 These textures has no transparency. I used Krita to change the color black to transparent.
