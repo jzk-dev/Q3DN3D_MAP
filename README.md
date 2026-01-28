@@ -10,7 +10,7 @@ Keep in mind that I was a beginner at map creation and learned many things only 
 * This map was created using NetRadiant. You must edit scripts\shaderlist.txt and add _dnShaders.shader for the map's shaders to appear.
 * Map compiled only with -vis (no light)
 
-File AllTextures.rar contains all the TGA textures used in DN3D game.
+File AllTextures.zip contains all the TGA textures used in DN3D game.
 These textures has no transparency, except some used in that map. I used Krita to change the color black to transparent.
 After saving the TGA on Krita, you must convert it using XnConvert, otherwise the image wll be upsidown.
 
