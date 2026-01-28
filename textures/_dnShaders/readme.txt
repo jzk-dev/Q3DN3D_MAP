@@ -1,1 +1,1 @@
-Empty folder must exist to the shaders to appear.
+Empty folder must exist to the shaders to appear in NetRadiant.
