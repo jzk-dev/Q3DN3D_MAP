@@ -1,7 +1,6 @@
 # Q3DN3D_MAP
 Duke Nukem 3d Hollywood Holocaust map for Quake 3 Arena.
-
-## [Quick tour video](https://www.youtube.com/watch?v=ZudiGftVDiE)
+* [Quick tour video here](https://www.youtube.com/watch?v=ZudiGftVDiE)
 
 ## Requirements
 - Quake 3 Arena
