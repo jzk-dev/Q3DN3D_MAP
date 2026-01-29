@@ -20,7 +20,7 @@ Keep in mind that I was a beginner at map creation and learned many things only 
 
 * This map was made to be played with the ExcessivePlus mod.
 * The focus was on preserving the original look of the map by using the same textures.
-* The map is static.
+* The map is static. No opening doors, elevator, etc.
 * There is no lighting configuration in the map.
 * There are no items in the map, except for the flags when playing CTF.
 * Music is intentionally from Q3, not DN.
