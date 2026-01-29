@@ -1,6 +1,20 @@
 # Q3DN3D_MAP
 Duke Nukem 3d Hollywood Holocaust map for Quake 3 Arena
 
+## Requirements
+- Quake 3 Arena
+- ExcessivePlus mod (recommended)
+
+## Installation
+1. Download the PK3 from the Releases page.
+2. Copy the `.pk3` file to:
+   `Quake3/baseq3/`
+3. Start Quake 3.
+4. Load ex+ mod.
+5. Load the map:
+   `/map Q3DN3D`
+
+## Notes
 Keep in mind that I was a beginner at map creation and learned many things only near the end of the process, so editing the map can be quite chaotic.
 
 * This map was made to be played with the ExcessivePlus mod.
