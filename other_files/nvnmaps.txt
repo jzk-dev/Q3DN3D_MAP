@@ -1,0 +1,28 @@
+# Excessive Plus for Quake III Arena
+#
+# www.excessiveplus.net
+
+
+
+// comment
+#  comment
+
+
+// this will be executed before each map
+
+
+Q3CTF4 {
+    capturelimit: 10
+}
+Q3TOURNEY6_ctf {
+    capturelimit: 10
+}
+Q3CTF1 {
+    capturelimit: 10
+}
+Q3CTF2 {
+    capturelimit: 10
+}
+q3ctf3 {
+    capturelimit: 10
+}
