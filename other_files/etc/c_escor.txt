@@ -1,0 +1,3 @@
+team_model tankjr/red
+team_model klesk/red
+say escort me
