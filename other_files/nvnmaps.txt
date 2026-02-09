@@ -1,3 +1,5 @@
+// in excessiveplus\conf
+
 # Excessive Plus for Quake III Arena
 #
 # www.excessiveplus.net
@@ -10,19 +12,26 @@
 
 // this will be executed before each map
 
+//Q3CTF4 {
+//    capturelimit: 10
+//}
+//Q3TOURNEY6_ctf {
+//    capturelimit: 10
+//}
+//Q3CTF1 {
+//    capturelimit: 10
+//}
+//Q3CTF2 {
+//    capturelimit: 10
+//}
+//q3ctf3 {
+//    capturelimit: 10
+//}
+//q3ctf4 {
+//    $fraglimit = 50;
+//}
+Q3DN3D {
+    $fraglimit = 50;
+    $xp_noCustomEnts = "0";
+}
 
-Q3CTF4 {
-    capturelimit: 10
-}
-Q3TOURNEY6_ctf {
-    capturelimit: 10
-}
-Q3CTF1 {
-    capturelimit: 10
-}
-Q3CTF2 {
-    capturelimit: 10
-}
-q3ctf3 {
-    capturelimit: 10
-}
