@@ -6,7 +6,7 @@
 
 \### Added
 
-\- Bot support (AAS file included).
+\- Bot support (AAS file included) (bspc -forcesidesvisible -optimize -bsp2aas Q3DN3D.bsp).
 
 \- Start entitie.
 
@@ -31,4 +31,5 @@
 \## \[1.0.0] - 2026-01-29
 
 \- Initial release.
+
 
