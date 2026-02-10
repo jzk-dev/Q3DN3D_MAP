@@ -14,7 +14,7 @@ Duke Nukem 3d Hollywood Holocaust map for Quake 3 Arena.
 4. Load ex+ mod.
 5. Load the map:
    `/map Q3DN3D`
-6. For local/server E+ config files see folder \other_files 
+6. For local/server E+ config files see files in \other_files 
 
 ## Notes
 Keep in mind that I was a beginner at map creation and learned many things only near the end of the process, so editing the map can be quite chaotic.
