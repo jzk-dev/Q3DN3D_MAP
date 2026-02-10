@@ -1,2 +1,0 @@
-xp_country co
-name "^x45A505GUE^3RRI^1LLA"

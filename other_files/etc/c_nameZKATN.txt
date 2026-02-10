@@ -1,3 +1,0 @@
-xp_country rr
-name "^3^1A^8^4^1^8N^3^8^8^1ъл"
-exec c_binds.txt

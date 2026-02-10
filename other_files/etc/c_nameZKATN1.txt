@@ -1,3 +1,0 @@
-xp_country rr
-xp_name "^l^x800000^x2D0000#e1^s^xEAAF00^x5E4600#14#12^l^x800000^x2D0000#ee^s^f^x52E9E9^x15ACAC*^s^l^x0080C0^x004080#fa#eb"
-exec c_binds.txt

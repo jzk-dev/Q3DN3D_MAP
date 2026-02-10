@@ -1,3 +1,0 @@
-xp_country br
-xp_name "^8^5#d6#cf^8#c9#c4"
-exec c_binds.txt
