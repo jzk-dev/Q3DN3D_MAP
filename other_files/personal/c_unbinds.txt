@@ -1,0 +1,7 @@
+bind y say yes
+bind n say no
+bind h say hi
+bind j say hi
+bind b bye
+bind v roger
+unbind v

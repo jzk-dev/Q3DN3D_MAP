@@ -1,0 +1,4 @@
+xp_country br
+name "^8^1ъл"
+cl_timenudge 0
+exec c_binds.txt

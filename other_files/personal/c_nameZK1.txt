@@ -1,0 +1,4 @@
+xp_country br
+xp_name "^8^9#da#cb"
+cl_timenudge 0
+exec c_binds.txt

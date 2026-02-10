@@ -1,0 +1,3 @@
+xp_country rr
+xp_name "^l^x800000^x2D0000#e1^s^xEAAF00^x5E4600#14#12^l^x800000^x2D0000#ee^s^x52E9E9^x15ACAC*^s^l^0^1Void"
+exec c_binds.txt
